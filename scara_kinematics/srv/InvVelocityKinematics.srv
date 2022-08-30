@@ -1,0 +1,7 @@
+float64 vx
+float64 vy
+float64 vz
+float64 theta1
+float64 theta2
+---
+geometry_msgs/Vector3  result
